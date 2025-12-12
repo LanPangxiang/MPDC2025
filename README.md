@@ -23,7 +23,8 @@ Please refer to the **requirements.txt** for specific environmental requirements
 | **IST** | 9,208   | 11,871 |529,067 | 57 | 0.5% |
 
 
-* We have updated processed data in the './data/processed'. 
+* We have updated processed data in the './data/processed'.
+* All datasets are sourced from https://sites.google.com/site/yangdingqi/home/foursquare-dataset
 * For the raw data processing, we follow the Diff-POI data processing method.
 * Due to the large file limit of GitHub, we cannot directly upload processed data of other dataset. We will update all of them in other link for more convenience after acceptance.
 
